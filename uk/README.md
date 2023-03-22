@@ -1,14 +1,12 @@
-# Навчальний посібник Django Girls
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Вступ
 
-> Ця робота ліцензована міжнародною ліцензією Creative Commons Attribution-ShareAlike 4.0
-International License. Щоб переглянути копію цієї ліцензії, відвідайте
-https://creativecommons.org/licenses/by-sa/4.0/
+[![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
+
+> Ця робота ліцензована міжнародною ліцензією Creative Commons Attribution-ShareAlike 4.0 International License. Щоб переглянути копію цієї ліцензії, відвідайте https://creativecommons.org/licenses/by-sa/4.0/
 
 ## Translation
 
 This tutorial has been translated from English by a group of awesome volunteers: [chupakabra](https://github.com/chupakabra), [Oleksandr Redko](https://github.com/alexandear), [Taras Bunyk](https://github.com/bunyk), [msihor](https://crowdin.com/profile/msihor), [Olesia Hrydzhuk](https://github.com/Zlira), [Andriy Kohut](https://github.com/andriykohut), [Artem Suchov](https://crowdin.com/profile/suchov), [Artem Godlevskyi](https://github.com/errno), [Alex Vykalyuk](https://crowdin.com/profile/alekzvik), [Kostyantyn Leschenko](https://crowdin.com/profile/kleschenko). Special thanks for all the free time they sacrificed to make that happen! <3
-
 
 ## Вступ
 
@@ -28,9 +26,9 @@ This tutorial has been translated from English by a group of awesome volunteers:
 
 ![Рисунок 0.1](images/application.png)
 
-> Якщо ви працюєте над матеріалами самостійно і не маєте інструктора, що зміг би допомогти у разі певної проблеми, для вас існує чат: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge). Ми попросили наших інструкторів і попередніх учасників бути там час від часу та допомагати іншим із освоєнням матеріалу! Не бійтеся задавати свої питання!
+> Якщо ви працюєте над матеріалами самостійно і не маєте інструктора, що зміг би допомогти у разі певної проблеми, для вас існує чат: [!\[Gitter\](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm\_source=badge\&utm\_medium=badge\&utm\_campaign=pr-badge\&utm\_content=badge). Ми попросили наших інструкторів і попередніх учасників бути там час від часу та допомагати іншим із освоєнням матеріалу! Не бійтеся задавати свої питання!
 
-Гаразд, [почнемо з самого початку...](./how_the_internet_works/README.md)
+Гаразд, [почнемо з самого початку...](how\_the\_internet\_works/)
 
 ## Коротка інформація та вклад
 
