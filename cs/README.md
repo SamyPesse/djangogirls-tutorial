@@ -1,5 +1,6 @@
-# Django Girls Tutoriál
-[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Úvod
+
+[![Gitter](https://badges.gitter.im/DjangoGirls/tutorial.svg)](https://gitter.im/DjangoGirls/tutorial)
 
 > Tento návod je licencován pod Creative Commons Attribution-ShareAlike 4.0 mezinárodní licencí. Chcete-li zobrazit kopii této licence, navštivte https://creativecommons.org/licenses/by-sa/4.0/
 
@@ -19,28 +20,19 @@ Po dokončení kurzu budeš mít jednoduchou, fungující webovou aplikaci: vlas
 
 Tvá aplikace bude (více či méně) vypadat takto:
 
-![Figure 0.1][2]
+![Figure 0.1](images/application.png)
 
- [2]: images/application.png
+> Pokud budeš procházet kurz sama bez učitele, který ti by ti pomáhal v případě, že narazíš na nějaký problém, máme pro tebe chat: [!\[Gitter\](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm\_source=badge\&utm\_medium=badge\&utm\_campaign=pr-badge\&utm\_content=badge). Požádali jsme kouče a předchozí účastníky kurzu, aby čas od času pomáhali ostatním s tímto kurzem. Neboj se zde zeptat na jakoukoliv otázku!
 
-> Pokud budeš procházet kurz sama bez učitele, který ti by ti pomáhal v případě, že narazíš na nějaký problém, máme pro tebe chat: [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/DjangoGirls/tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge). Požádali jsme kouče a předchozí účastníky kurzu, aby čas od času pomáhali ostatním s tímto kurzem. Neboj se zde zeptat na jakoukoliv otázku!
-
-OK, [začněme od začátku...][3]
-
- [3]: ./how_the_internet_works/README.md
+OK, [začněme od začátku...](how\_the\_internet\_works/)
 
 ## O kurzu a přispěvatelích
 
-Tento kurz je provozován organizací [DjangoGirls][4]. Pokud najdeš nějaké chyby, nebo chceš aktualizovat návod, prosím, [postupuj podle pokynů pro přispívající][5].
-
- [4]: https://djangogirls.org/
- [5]: https://github.com/DjangoGirls/tutorial/blob/master/README.md
+Tento kurz je provozován organizací [DjangoGirls](https://djangogirls.org/). Pokud najdeš nějaké chyby, nebo chceš aktualizovat návod, prosím, [postupuj podle pokynů pro přispívající](https://github.com/DjangoGirls/tutorial/blob/master/README.md).
 
 ## Český překlad
 
-Původní DjangoGirls tutoriál přeložila do češtiny skupina dobrovolníků. Poděkování patří hlavně:
-Davidovi (dakf), Kristýně Kumpánové, Veronice Gabrielové, Tomáši Ehrlichovi,
-Aničce Jaegerové, Matějovi Stuchlíkovi, Filipovi Sivákovi a Juraji M. Bezručkovi.
+Původní DjangoGirls tutoriál přeložila do češtiny skupina dobrovolníků. Poděkování patří hlavně: Davidovi (dakf), Kristýně Kumpánové, Veronice Gabrielové, Tomáši Ehrlichovi, Aničce Jaegerové, Matějovi Stuchlíkovi, Filipovi Sivákovi a Juraji M. Bezručkovi.
 
 ## Chtěla bys nám pomoci přeložit návod do jiných jazyků?
 
@@ -48,6 +40,4 @@ V současné době jsou překlady provozovány na platformě crowdin.com na adre
 
 https://crowdin.com/project/django-girls-tutorial
 
-Pokud tvůj jazyk není uveden v seznamu na crowdin, prosím, [založ nový požadavek][6] pro přidání dalšího jazyka.
-
- [6]: https://github.com/DjangoGirls/tutorial/issues/new
+Pokud tvůj jazyk není uveden v seznamu na crowdin, prosím, [založ nový požadavek](https://github.com/DjangoGirls/tutorial/issues/new) pro přidání dalšího jazyka.
